@@ -1,7 +1,41 @@
 {
   "#": "{#space}",
+  ":": "{#space}",
   "#:": "{#Shift_L}",
+  "#:YW": "{#Control_L(Shift_L)}",
   "^": "=undo",
   "^_": "\n",
-  "_": "{#backspace}"
+  "_": "{#backspace}",
+
+  "#S": "1",
+  "#H": "2",
+  "#G": "3",
+  "#D": "4",
+  "#F": "5",
+  "#s": "6",
+  "#h": "7",
+  "#g": "8",
+  "#d": "9",
+  "#f": "0",
+  "#a": "<",
+  "#i": ">",
+  "#n": "_",
+  "#o": "?",
+  "#I": ":",
+  
+  ":I": "{#up}",
+  ":i": "{#down}",
+  ":a": "{#left}",
+  ":n": "{#right}",
+  ":WI": "{#Page_Up}",
+  ":Wi": "{#Page_Down}",
+  ":Wa": "{#Home}",
+  ":Wn": "{#End}",
+  
+  "SHGDshgd": "{PLOVER:SUSPEND}{MODE:SET_SPACE:}",
+  "AINOaino": "{PLOVER:RESUME}{MODE:SET_SPACE:}",
+  "SHGDAINOshgdaino": "{MODE:SET_SPACE: }",
+  
+  "Ff": ",",
+  "Xx": "."
 }
