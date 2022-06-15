@@ -9,10 +9,25 @@ class TranslationError(Exception):
 NOTHING = "{#}"
 
 init_map = {
-  '': '', 'G': 'g', 'HG': 'k', 'H': 'h',
-  'SG': 'zh', 'SH': 'ch', 'S': 'sh', 'SHG': 'r',
-  'D': 'd', 'SD': 't', 'SGD': 'n', 'GD': 'l',
-  'HD': 'b', 'SHGD': 'p', 'HGD': 'm', 'SHD': 'f',
+  "": "",
+  "  G ": "g",
+  " HG ": "k",
+  " H  ": "h",
+
+  "S   ": "zh",
+  " HGD": "ch",
+  "  GD": "sh",
+  "SH  ": "r",
+
+  "   D": "d",
+  "SHG ": "t",
+  "S G ": "n",
+  " H D": "l",
+  
+  "SHGD": "b",
+  "S GD": "p",
+  "S  D": "m",
+  "SH D": "f",
 }
 
 init_map_y = {
