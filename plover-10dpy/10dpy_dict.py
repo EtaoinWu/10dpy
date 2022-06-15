@@ -10,24 +10,24 @@ NOTHING = "{#}"
 
 init_map = {
   "": "",
-  "  G ": "g",
-  " HG ": "k",
-  " H  ": "h",
+  "G":"g",
+  "HG":"k",
+  "H":"h",
 
-  "S   ": "zh",
-  " HGD": "ch",
-  "  GD": "sh",
-  "SH  ": "r",
+  "S":"zh",
+  "HGD":"ch",
+  "GD":"sh",
+  "SH":"r",
 
-  "   D": "d",
-  "SHG ": "t",
-  "S G ": "n",
-  " H D": "l",
-  
-  "SHGD": "b",
-  "S GD": "p",
-  "S  D": "m",
-  "SH D": "f",
+  "D":"d",
+  "SHG":"t",
+  "SG":"n",
+  "HD":"l",
+
+  "SHGD":"b",
+  "SGD":"p",
+  "SD":"m",
+  "SHD":"f",
 }
 
 init_map_y = {
