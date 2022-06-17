@@ -113,24 +113,24 @@ SH D: f
 
 ## 范例
 
-| 汉字 | 拼音  | 10dpy |
-| ---- | ----- | ----- |
-| 有   | you   | YO    |
-| 一   | yi    | Y     |
-| 次   | ci    | SHY   |
-| 北   | bei   | SHGDI |
-| 风   | feng  | SHDNO |
-| 和   | he    | H     |
-| 太   | tai   | SHGAI |
-| 阳   | yang  | YANO  |
-| 正   | zheng | SNO   |
-| 在   | zai   | SYAI  |
-| 争   | zheng | SNO   |
-| 论   | lun   | HDWN  |
-| 谁   | shei  | GDI   |
-| 比   | bi    | SHGDY |
-| 较   | jiao  | GYAO  |
-| 有   | you   | YO    |
-| 本   | ben   | SHGDN |
-| 事   | shi   | GD    |
+| 汉字 | 拼音  | 10dpy   |
+| ---- | ----- | ------- |
+| 有   | you   | `YO`    |
+| 一   | yi    | `Y`     |
+| 次   | ci    | `SHY`   |
+| 北   | bei   | `SHGDI` |
+| 风   | feng  | `SHDNO` |
+| 和   | he    | `H`     |
+| 太   | tai   | `SHGAI` |
+| 阳   | yang  | `YANO`  |
+| 正   | zheng | `SNO`   |
+| 在   | zai   | `SYAI`  |
+| 争   | zheng | `SNO`   |
+| 论   | lun   | `HDWN`  |
+| 谁   | shei  | `GDI`   |
+| 比   | bi    | `SHGDY` |
+| 较   | jiao  | `GYAO`  |
+| 有   | you   | `YO`    |
+| 本   | ben   | `SHGDN` |
+| 事   | shi   | `GD`    |
 
