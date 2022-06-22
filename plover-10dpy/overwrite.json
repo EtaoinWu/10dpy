@@ -34,7 +34,7 @@
   
   "SHGDshgd": "{PLOVER:SUSPEND}{MODE:SET_SPACE:}",
   "AINOaino": "{PLOVER:RESUME}{MODE:SET_SPACE:}",
-  "SHGDAINOshgdaino": "{MODE:SET_SPACE: }",
+  "SHGDAINOshgdaino": "{#Shift_L}{^ ^}{plover:switch_system:English Stenotype}{MODE:SET_SPACE: }",
   
   "Ff": ",",
   "Xx": "."
